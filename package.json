@@ -25,7 +25,7 @@
   "author": "Jeremy Bogle <jeremy@cardinal.so>",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.10.0",
+    "@actions/core": "^2.0.2",
     "@coral-xyz/anchor": "^0.26.0",
     "@solana/web3.js": "1.53.0"
   },
